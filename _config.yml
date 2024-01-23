@@ -21,7 +21,7 @@ github_username:  KaivenBugwadia
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: -
+# instagram_username: -
 linkedin_username: kaivenb
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -57,12 +57,12 @@ content:
     content:
       - layout: top-middle
         title: Speed Builders
-        link: -
+        #link: -
         # link_text: Project Website
         additional_links:
           #- title: -
             icon: fab fa-github
-            url: -
+           # url: -
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
