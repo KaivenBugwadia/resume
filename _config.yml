@@ -67,9 +67,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          -
+          Minecraft Mini-game
         description: | # this will include new lines to allow paragraphs
-          I -
+          I am designing a remake of the Minecraft mini-game SpeedBuilders, which will launche in the near future
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -83,7 +83,7 @@ content:
         quote: >
           Planned and hosted a video game tournament in Minecraft.
         description: | # this will include new lines to allow paragraphs
-            Lead a team hosting and planning a tournament for the Minecraft mini-game, Speed Builders. With over 100 participants and many volunteers helping, leadership was very important in making everything run smoothly.
+            Lead a team hosting and planning a tournament for the Minecraft mini-game, Speed Builders. With over 100 participants and many volunteers helping, leadership was very important in making everything run smoothly. I created weekly schedules, hosted meetings, and interacted with each participant to gather feedback and improve what I was doing along the way.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -91,7 +91,7 @@ content:
       - layout: left
         title: California State University, Monterey Bay
         caption: 2020 - 2024
-        sub_title: BS Computer Science
+        sub_title: BS Computer Science, 3.7 GPA
         quote: >
           -
         description: | # this will include new lines to allow paragraphs
