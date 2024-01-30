@@ -94,7 +94,29 @@ content:
           Minecraft Game Designing
         description: | # this will include new lines to allow paragraph
           I worked closely with developers to design new Minecraft mini-games as well as updates to various existing mini-games. I learned a lot about the workflow in both projects big and small.
-        
+          
+         - layout: left
+        title: YMCA
+        link: https://www.ymcasv.org/locations/el-camino-ymca
+        # link_text: boringcompany.com
+        sub_title: Summer Camp Leader
+        caption: Summer 2023
+        quote: >
+          Summer Camp Leader
+        description: | # this will include new lines to allow paragraphs
+           Created and facilitated activites to help children learn while having fun. 
+           
+         - layout: left
+        title: Chick-Fil-A
+        link: https://www.chick-fil-a.com/
+        # link_text: boringcompany.com
+        sub_title: Line Cook
+        caption: Summer 2021
+        quote: >
+          Line cook
+        description: | # this will include new lines to allow paragraphs
+           I literally made the best chicken in the world! don't believe me? Try some yourself.
+           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -110,8 +132,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      -hobbies:
-      Video games, hiking, baking
+      In my free time I spend a lot of time with friends as well as taking part in activities such as hiking, cooking/baking, and Hotwheels collecting. I am also an avid video game an movie enjoyer.
 
       
 
