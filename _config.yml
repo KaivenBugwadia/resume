@@ -69,7 +69,7 @@ content:
         quote: >
           Minecraft Mini-game
         description: | # this will include new lines to allow paragraphs
-          I am designing a remake of the Minecraft mini-game SpeedBuilders, which will launche in the near future
+          I am designing a remake of the Minecraft mini-game SpeedBuilders, which will launch in the next 2 months. The vision is to improve the game by adding new unique challenges and cosmetic rewards to keep players interested, while also keeping things fresh with experimental game modes.  
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
