@@ -94,8 +94,7 @@ content:
           Minecraft Game Designing
         description: | # this will include new lines to allow paragraph
           I worked closely with developers to design new Minecraft mini-games as well as updates to various existing mini-games. I learned a lot about the workflow in both projects big and small.
-          
-         - layout: left
+      - layout: left
         title: YMCA
         link: https://www.ymcasv.org/locations/el-camino-ymca
         # link_text: boringcompany.com
@@ -105,8 +104,7 @@ content:
           Summer Camp Leader
         description: | # this will include new lines to allow paragraphs
            Created and facilitated activites to help children learn while having fun. 
-           
-         - layout: left
+      - layout: left
         title: Chick-Fil-A
         link: https://www.chick-fil-a.com/
         # link_text: boringcompany.com
