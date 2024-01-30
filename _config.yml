@@ -84,7 +84,17 @@ content:
           Planned and hosted a video game tournament in Minecraft.
         description: | # this will include new lines to allow paragraphs
             Lead a team hosting and planning a tournament for the Minecraft mini-game, Speed Builders. With over 100 participants and many volunteers helping, leadership was very important in making everything run smoothly. I created weekly schedules, hosted meetings, and interacted with each participant to gather feedback and improve what I was doing along the way.
-
+      - layout: left
+        title: Mineplex
+        link: Mineplex.com
+        # link_text: boringcompany.com
+        sub_title: Quality Assurance
+        caption: 2020-2023
+        quote: >
+          Minecraft Game Designing
+        description: | # this will include new lines to allow paragraph
+          I worked closely with developers to design new Minecraft mini-games as well as updates to various existing mini-games. I learned a lot about the workflow in both projects big and small.
+        
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -95,7 +105,7 @@ content:
         quote: >
           -
         description: | # this will include new lines to allow paragraphs
-          -
+          I took courses in Data Structures, Software Design, Mobile Development, Web Development, and Game Development. I gained skills in C++, Java, Kotlin, ROOM, and SQL/ite.
 
   - title: A Little More About Me
     layout: text
