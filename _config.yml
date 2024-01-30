@@ -69,7 +69,7 @@ content:
         quote: >
           Minecraft Mini-game
         description: | # this will include new lines to allow paragraphs
-          I am designing a remake of the Minecraft mini-game SpeedBuilders, which will launch in the next 2 months. The vision is to improve the game by adding new unique challenges and cosmetic rewards to keep players interested, while also keeping things fresh with experimental game modes.  
+          I am designing a remake of the Minecraft mini-game SpeedBuilders. The game is currently in the bug fixing phase, and is planned to launch within the next 2 months. The vision is to improve the game by adding new unique challenges and cosmetic rewards to keep players interested, while also keeping things fresh with experimental game modes.  
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -103,7 +103,7 @@ content:
         quote: >
           Summer Camp Leader
         description: | # this will include new lines to allow paragraphs
-           Created and facilitated activites to help children learn while having fun. 
+           Created and facilitated activites to help children learn while having fun. I picked up skills in creative problem solving and multitasking. I was offered continued employment after summer for their school year program, but declined due to my college semester starting.
       - layout: left
         title: Chick-Fil-A
         link: https://www.chick-fil-a.com/
@@ -113,7 +113,7 @@ content:
         quote: >
           Line cook
         description: | # this will include new lines to allow paragraphs
-           I literally made the best chicken in the world! don't believe me? Try some yourself.
+           While working at Chick-Fil-A I became accustomed to working in a fast paced environment and I learned how to work in a team.
            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -125,7 +125,7 @@ content:
         quote: >
           -
         description: | # this will include new lines to allow paragraphs
-          I took courses in Data Structures, Software Design, Mobile Development, Web Development, and Game Development. I gained skills in C++, Java, Kotlin, ROOM, and SQL/ite.
+          I completed courses in Data Structures, Software Design, and Mobile Development. I am currently enrolled in Web Development, and Game Development courses. I gained skills in C++, Java, Kotlin, ROOM, and SQL/ite.
 
   - title: A Little More About Me
     layout: text
