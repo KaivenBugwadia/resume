@@ -46,7 +46,7 @@ linkedin_username: kaivenb
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: Screenshot_104.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Kaiven and I am a student. I am learning about software designs and want to gain experience by making software. I have gained skills in teamwork and making the dreamwork! 
   I am most skilled in: <mark>C++</mark>, <mark>Java</mark>, and <mark>QA</mark>
