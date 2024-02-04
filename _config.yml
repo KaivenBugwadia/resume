@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Kaiven Bugwadia
-title: Student
+title: 2024 Computer Science Graduate
 email: kbugwadia@gmail.com
 website: https://kaivenbugwadia.github.io/resume/
 
@@ -48,7 +48,7 @@ linkedin_username: kaivenb
 # about_title: About Me
 about_profile_image: images/Screenshot_104.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Kaiven and I am a student. I am learning about software designs and want to gain experience by making software. I have gained skills in teamwork and making the dreamwork! 
+  Hi, my name's Kaiven and I am a student. I am learning about software developent and want to gain experience by making software. I have gained skills in teamwork and making the dreamwork! 
   I am most skilled in: <mark>C++</mark>, <mark>Java</mark>, and <mark>QA</mark>
 
 content:
