@@ -95,7 +95,7 @@ content:
           Summer Camp Leader
         description: | # this will include new lines to allow paragraphs
            Created and facilitated activites to help children learn while having fun. I picked up skills in creative problem solving and multitasking. I was offered continued employment after summer for their school year program, but declined due to my college semester starting.
-            - layout: left
+      - layout: left
         title: Microsoft
         link: Microsoft.com
         # link_text: boringcompany.com
