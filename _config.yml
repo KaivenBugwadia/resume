@@ -49,7 +49,7 @@ linkedin_username: kaivenb
 about_profile_image: images/Screenshot_104.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Kaiven and I am a student. I enjoy Software Design and Development. I am looking forward to gain real world experience in these fields. I have work really well both alone and in a team, and I really enjoy solving complex problems! 
-  I am most skilled in: <mark>C++</mark>, <mark>Java</mark>, and <mark>QA</mark>
+  I am most skilled in: <mark>C++</mark>.
 
 content:
   - title: Projects # Title for the section
@@ -74,16 +74,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Microsoft
-        link: Microsoft.com
-        # link_text: boringcompany.com
-        sub_title: Event Coordinator
-        caption: Summer 2022
-        quote: >
-          Planned and hosted a video game tournament in Minecraft.
-        description: | # this will include new lines to allow paragraphs
-            Lead a team hosting and planning a tournament for the Minecraft mini-game, Speed Builders. With over 100 participants and many volunteers helping, leadership was very important in making everything run smoothly. I created weekly schedules, hosted meetings, and interacted with each participant to gather feedback and improve what I was doing along the way.
+     
       - layout: left
         title: Mineplex
         link: Mineplex.com
@@ -104,6 +95,16 @@ content:
           Summer Camp Leader
         description: | # this will include new lines to allow paragraphs
            Created and facilitated activites to help children learn while having fun. I picked up skills in creative problem solving and multitasking. I was offered continued employment after summer for their school year program, but declined due to my college semester starting.
+            - layout: left
+        title: Microsoft
+        link: Microsoft.com
+        # link_text: boringcompany.com
+        sub_title: Event Coordinator
+        caption: Summer 2022
+        quote: >
+          Planned and hosted a video game tournament in Minecraft.
+        description: | # this will include new lines to allow paragraphs
+            Lead a team hosting and planning a tournament for the Minecraft mini-game, Speed Builders. With over 100 participants and many volunteers helping, leadership was very important in making everything run smoothly. I created weekly schedules, hosted meetings, and interacted with each participant to gather feedback and improve what I was doing along the way.
       - layout: left
         title: Chick-Fil-A
         link: https://www.chick-fil-a.com/
