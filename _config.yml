@@ -105,6 +105,7 @@ content:
     content:
       - layout: left
         title: Speed Builders
+        sub_title: Minecraft Mini-game
         #link: -
         # link_text: Project Website
         additional_links:
@@ -114,8 +115,6 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Minecraft Mini-game
         description: | # this will include new lines to allow paragraphs
           I am designing a remake of the Minecraft mini-game SpeedBuilders.
           The game is currently in the bug fixing phase, and is planned to launch within the next 2 months.
@@ -126,11 +125,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: CSUMB
+        title: Cal State, Monterey Bay
         caption: 2020 - 2024
         sub_title: BS Computer Science, 3.7 GPA
-        quote: > 
-           California State University, Monterey Bay
         description: | # this will include new lines to allow paragraphs
           I have completed courses in Data Structures, Software Design, and Mobile Development. I am currently enrolled in Web Development
           and Game Development courses.
@@ -139,8 +136,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      In my free time I spend a lot of time with friends as well as taking part in activities such as hiking, 
-      cooking/baking, and Hotwheels collecting. I am also an avid video game and movie fan.
+      In my free time I meet with friends as well as take part in activities such as hiking, 
+      cooking/baking, and Hot Wheels collecting. I am also an avid video game and movie fan.
 
 
 # Footer
