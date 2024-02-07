@@ -48,7 +48,10 @@ linkedin_username: kaivenb
 # about_title: About Me
 about_profile_image: images/Screenshot_104.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Kaiven and I am a Computer Science major at California State, Monterey Bay in my senior year. I enjoy working with groups to collaborate an achieve the best possible results. I have a passion for building software, finding issues, and helping suggest new features. My goal is to gain professional experience to pursue these passions, while contributing to my team's success.
+  Hi, my name's Kaiven and I am a Computer Science major at California State, Monterey Bay in my senior year. 
+  I enjoy working with groups to collaborate an achieve the best possible results. I have a passion for building software, 
+  finding issues, and helping suggest new features. My goal is to gain professional experience to pursue these passions, 
+  while contributing to my team's success.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
