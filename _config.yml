@@ -53,6 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   finding issues, and helping suggest new features. My goal is to gain professional experience to pursue these passions, 
   while contributing to my team's success.
 content:
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -72,7 +73,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I am designing a remake of the Minecraft mini-game SpeedBuilders. The game is currently in the bug fixing phase, and is planned to launch within the next 2 months. The vision is to improve the game by adding new unique challenges and cosmetic rewards to keep players interested, while also keeping things fresh with experimental game modes.  
 
-    - title: Experience # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -114,7 +115,7 @@ content:
         quote: >
           Line cook
         description: | # this will include new lines to allow paragraphs
-        While working at Chick-Fil-A I became accustomed to working in a fast paced environment and I learned how to work in a team.    
+          While working at Chick-Fil-A I became accustomed to working in a fast paced environment and I learned how to work in a team.    
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
