@@ -53,9 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   testing, documenting, and troubleshooting,. My immediate goal is to gain professional experience to pursue these passions, 
   while contributing to my organizations success.
 content:
-
-
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -121,8 +118,6 @@ content:
           The vision is to improve the game by adding new unique challenges and cosmetic rewards to keep players interested,
           while also keeping things fresh with experimental game modes.  
 
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: Web Design
         sub_title: CST 374
@@ -139,7 +134,7 @@ content:
           Created a web application which integrated with Blizzard's Overwatch API, user score statistics. The application display rank and key metrics. The application used OIDC for Single Sign-On (SSO) for user authenthication
 
           layout: list # Type of content section (list/text)
-    content:
+          
       - layout: left
         title: Golang
         sub_title: Self Study
