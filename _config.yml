@@ -114,7 +114,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           I am designing a remake of the Minecraft mini-game SpeedBuilders.
-          The game is currently in the bug fixing phase, and is planned to launch within the next 2 months.
+          The game is currently in the bug fixing phase, and is planned to launch within the next 2 weeks.
           The vision is to improve the game by adding new unique challenges and cosmetic rewards to keep players interested,
           while also keeping things fresh with experimental game modes.  
 
@@ -131,9 +131,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          Created a web application which integrated with Blizzard's Overwatch API, user score statistics. The application display rank and key metrics. The application used OIDC for Single Sign-On (SSO) for user authenthication
-
-          layout: list # Type of content section (list/text)
+          Created a web application which integrated with Blizzard’s Overwatch API, user score statistics. The application displays rank and key metrics. The application used OIDC for Single Sign-On (SSO) for user authentication
           
       - layout: left
         title: Golang
@@ -148,7 +146,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          Having learnt Java and C++ I decided to learn Golang by creating a few applications. I wrote an application to query github APIs for project metrics.  The Metrics were appended a local csv file for tracking historical data.
+          Having learnt Java and C++ I decided to learn Golang by creating a few applications. I wrote an application to query github APIs for project metrics. The Metrics were appended to a local csv file for tracking historical data.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
