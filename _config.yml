@@ -76,11 +76,11 @@ content:
           I picked up skills in creative problem solving and multitasking. 
           I was offered continued employment after summer for their school year program, but declined due to my college semester starting.
       - layout: left
-        title: Microsoft
-        link: Microsoft.com
+        title: Mineplex
+        link: Mineplex.com
         # link_text: boringcompany.com
         sub_title: Event Coordinator
-        caption: Summer 2022
+        caption: Summer 2020-Summer 2022
         description: | # this will include new lines to allow paragraphs
             Planned and hosted a video game tournament in Minecraft.
             Led a team hosting and planning a tournament for the Minecraft mini-game, 
@@ -117,21 +117,6 @@ content:
           The game is currently in the bug fixing phase, and is planned to launch within the next 2 weeks.
           The vision is to improve the game by adding new unique challenges and cosmetic rewards to keep players interested,
           while also keeping things fresh with experimental game modes.  
-
-      - layout: left
-        title: Web Design
-        sub_title: CST 374
-        #link: -
-        # link_text: Project Website
-        additional_links:
-          #- title: -
-            icon: fab fa-github 
-            # url: -
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
-          Created a web application which integrated with Blizzard’s Overwatch API, user score statistics. The application displays rank and key metrics. The application used OIDC for Single Sign-On (SSO) for user authentication
           
       - layout: left
         title: Golang
@@ -158,7 +143,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I have completed courses in Data Structures, Software Design, and Mobile Development. I am currently enrolled in Web Development
           and Game Development courses.
-          Through my courses, I have gained skills in C++, Java, Kotlin, ROOM, SQL/SQLite.
+          Through my courses, I have gained skills in C++, Java, Kotlin, Golang, ROOM, SQL/SQLite.
 
   - title: A Little More About Me
     layout: text
